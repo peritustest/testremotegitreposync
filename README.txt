@@ -1,4 +1,4 @@
 
 For downloads see
 
-http://j03.de/projects/testremotegitreposync/
+http://j03.de/projects/testremotegitreposync/downloads/
